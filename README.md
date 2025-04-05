@@ -4,7 +4,8 @@
 
 ## 📌 Project Type  
 Exploratory Data Analysis (EDA)  
-**Academic Project**: Almabetter 
+**Academic Project**: Almabetter
+
 **Contributor**: Suman Sadhukhan (Individual)
 
 ---
